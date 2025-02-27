@@ -103,10 +103,17 @@ npx expo start
 - 实现了ParallaxScrollView等自定义组件提升用户体验
 
 ## 📱 应用截图
+<div style="overflow-x: auto; white-space: nowrap;">
+    <img src="img/k1.png" alt="Example Image" style="display: inline-block; margin-right: 10px;">
+    <img src="img/k2.png" alt="Example Image" style="display: inline-block; margin-right: 10px;">
+    <img src="img/k3.png" alt="Example Image" style="display: inline-block; margin-right: 10px;">
+    <img src="img/k4.png" alt="Example Image" style="display: inline-block;">
+</div>
 
-[此处可添加应用截图]
 
 ## 🤝 贡献指南
+
+
 
 1. Fork 项目
 2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
@@ -122,4 +129,5 @@ npx expo start
 
 项目维护者 - [@yourusername](https://github.com/yourusername)
 
-项目链接: [https://github.com/yourusername/crypto-wallet-app](https://github.com/yourusername/crypto-wallet-app)
+<img src="[img/k4.png](https://img-hello-world.oss-cn-beijing.aliyuncs.com/imgs/c95cfc940e64c8f034898e884d64ec28.jpg)" alt="Example Image" style="display: inline-block;">
+
