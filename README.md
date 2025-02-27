@@ -1,50 +1,125 @@
-# Welcome to your Expo app 👋
+# 🚀 Crypto Wallet App 
+![Example Image](img/1.png)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+供学习ReactNative 使用
 
-## Get started
+<video width="640" height="360" controls>
+  <source src="video/1.mp4" type="video/mp4">
 
-1. Install dependencies
+</video>
 
-   ```bash
-   npm install
-   ```
+一款现代化、功能丰富的加密货币钱包应用，提供直观的用户界面和全面的加密货币管理功能页面。
 
-2. Start the app
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-green.svg)
+![Expo](https://img.shields.io/badge/expo-v52.0-blue.svg)
 
-   ```bash
-    npx expo start
-   ```
+## ✨ 功能特点
 
-In the output, you'll find options to open the app in a
+### 💰 资产管理
+- 实时查看钱包余额和资产分布
+- 支持多种加密货币（BTC、ETH、USDT等）
+- 资产价格实时更新和变化趋势显示
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 💱 交易功能
+- 发送和接收加密货币
+- 加密货币购买功能
+- 币种兑换（Swap）功能，支持不同币种间的快速转换
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 📊 市场行情
+- 加密货币详情页面，展示价格、市值等关键信息
+- 价格图表和历史数据展示
+- 多时间范围（1小时、1天、1周、1月、1年）数据查看
 
-## Get a fresh project
+### 👤 个人资料
+- 用户个人信息管理
+- 交易历史记录
+- 联系人管理功能
 
-When you're ready, run:
+### 📚 学习中心
+- 加密货币知识学习资源
+- 区块链技术介绍
 
+## 🛠️ 技术栈
+
+### 前端框架
+- **React Native**: 跨平台移动应用开发框架
+- **Expo**: 简化React Native开发的工具和服务平台
+- **Expo Router**: 基于文件系统的路由解决方案
+
+### UI/UX
+- **Styled Components**: CSS-in-JS解决方案，用于组件样式管理
+- **Expo Vector Icons**: 丰富的图标库
+- **React Native Reanimated**: 高性能动画库
+- **Expo Blur**: 实现模糊效果
+- **Expo Haptics**: 触觉反馈功能
+
+### 状态管理
+- 自定义状态管理解决方案
+- 组件间数据共享
+
+## 💻 安装与运行
+
+### 前提条件
+- Node.js (v14.0+)
+- npm 或 yarn
+- Expo CLI
+
+### 安装步骤
+
+1. 克隆仓库
 ```bash
-npm run reset-project
+git clone https://github.com/yourusername/crypto-wallet-app.git
+cd crypto-wallet-app
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. 安装依赖
+```bash
+npm install
+```
 
-## Learn more
+3. 启动应用
+```bash
+npx expo start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🔧 技术难点与解决方案
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### 1. 实时价格更新
+- 实现了高效的数据获取和更新机制
+- 优化了UI渲染性能，确保价格变化时界面流畅更新
 
-## Join the community
+### 2. 自适应UI设计
+- 使用Styled Components实现了主题切换和自适应布局
+- 针对不同设备尺寸优化了用户界面
 
-Join our community of developers creating universal apps.
+### 3. 交易安全性
+- 实现了安全的交易确认流程
+- 数据验证和错误处理机制
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### 4. 性能优化
+- 组件懒加载和代码分割
+- 使用React Native Reanimated提升动画性能
+- 实现了ParallaxScrollView等自定义组件提升用户体验
+
+## 📱 应用截图
+
+[此处可添加应用截图]
+
+## 🤝 贡献指南
+
+1. Fork 项目
+2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
+3. 提交更改 (`git commit -m 'Add some amazing feature'`)
+4. 推送到分支 (`git push origin feature/amazing-feature`)
+5. 创建Pull Request
+
+## 📄 许可证
+
+本项目采用MIT许可证 - 详情请参阅 [LICENSE](LICENSE) 文件
+
+## 📞 联系方式
+
+项目维护者 - [@yourusername](https://github.com/yourusername)
+
+项目链接: [https://github.com/yourusername/crypto-wallet-app](https://github.com/yourusername/crypto-wallet-app)
