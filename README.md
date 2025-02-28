@@ -103,12 +103,10 @@ npx expo start
 - 实现了ParallaxScrollView等自定义组件提升用户体验
 
 ## 📱 应用截图
-<div style="overflow-x: auto; white-space: nowrap;">
-    <img src="img/k1.png" alt="Example Image" style="display: inline-block; margin-right: 10px;">
-    <img src="img/k2.png" alt="Example Image" style="display: inline-block; margin-right: 10px;">
-    <img src="img/k3.png" alt="Example Image" style="display: inline-block; margin-right: 10px;">
-    <img src="img/k4.png" alt="Example Image" style="display: inline-block;">
-</div>
+| 标题  |                                                                                                                                                                                              图片1                                                                                                                                                                                               |                                                                                                                                                                                              图片2                                                                                                                                                                                               |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|       |  ![k1.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/cabdd8ae31fa4efe89b9b83de4dcc120~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY5rW35Yab:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTIzOTkwNDg0ODcxMzU5MiJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1740786547&x-orig-sign=zt1xiAt4TrOf4GLEud6EnECvkEE%3D)  | ![k2.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/fe31a15fd2eb4dbdb528631c8a28c39e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY5rW35Yab:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTIzOTkwNDg0ODcxMzU5MiJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1740786565&x-orig-sign=PBfdWGnIm%2BADmi3qNw2FzvEj6Ow%3D) |
+|       | ![k3.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/2f659bc0bedf420494706d8ddd1e5699~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY5rW35Yab:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTIzOTkwNDg0ODcxMzU5MiJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1740786608&x-orig-sign=esVTjc34%2FTS0dVa1TNNnUTpBTSg%3D) |  ![k4.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/7461328fe7a542e18bf8befea863d9f2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY5rW35Yab:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTIzOTkwNDg0ODcxMzU5MiJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1740786622&x-orig-sign=Xfazq8cTwPKQHW07M6eSZxfyars%3D)  |
 
 
 ## 🤝 贡献指南
@@ -128,6 +126,6 @@ npx expo start
 ## 📞 联系方式
 
 项目维护者 - [@yourusername](https://github.com/yourusername)
+[img/k4.png](https://img-hello-world.oss-cn-beijing.aliyuncs.com/imgs/c95cfc940e64c8f034898e884d64ec28.jpg)
 
-<img src="[img/k4.png](https://img-hello-world.oss-cn-beijing.aliyuncs.com/imgs/c95cfc940e64c8f034898e884d64ec28.jpg)" alt="Example Image" style="display: inline-block;">
 
