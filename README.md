@@ -96,7 +96,7 @@ npx expo start
 本项目采用MIT许可证 - 详情请参阅 [LICENSE](LICENSE) 文件
 
 ## 📞 联系方式
-<img src="https://img-hello-world.oss-cn-beijing.aliyuncs.com/imgs/c95cfc940e64c8f034898e884d64ec28.jpg" style="width:200px;height:200px"/>
+<img src="https://img-hello-world.oss-cn-beijing.aliyuncs.com/imgs/c95cfc940e64c8f034898e884d64ec28.jpg" style="width:400px;height:400px"/>
 
 
 
