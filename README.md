@@ -14,31 +14,7 @@
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-green.svg)
 ![Expo](https://img.shields.io/badge/expo-v52.0-blue.svg)
 
-## ✨ 功能特点
 
-### 💰 资产管理
-- 实时查看钱包余额和资产分布
-- 支持多种加密货币（BTC、ETH、USDT等）
-- 资产价格实时更新和变化趋势显示
-
-### 💱 交易功能
-- 发送和接收加密货币
-- 加密货币购买功能
-- 币种兑换（Swap）功能，支持不同币种间的快速转换
-
-### 📊 市场行情
-- 加密货币详情页面，展示价格、市值等关键信息
-- 价格图表和历史数据展示
-- 多时间范围（1小时、1天、1周、1月、1年）数据查看
-
-### 👤 个人资料
-- 用户个人信息管理
-- 交易历史记录
-- 联系人管理功能
-
-### 📚 学习中心
-- 加密货币知识学习资源
-- 区块链技术介绍
 
 ## 🛠️ 技术栈
 
@@ -93,11 +69,7 @@ npx expo start
 - 使用Styled Components实现了主题切换和自适应布局
 - 针对不同设备尺寸优化了用户界面
 
-### 3. 交易安全性
-- 实现了安全的交易确认流程
-- 数据验证和错误处理机制
-
-### 4. 性能优化
+### 3. 性能优化
 - 组件懒加载和代码分割
 - 使用React Native Reanimated提升动画性能
 - 实现了ParallaxScrollView等自定义组件提升用户体验
@@ -124,8 +96,8 @@ npx expo start
 本项目采用MIT许可证 - 详情请参阅 [LICENSE](LICENSE) 文件
 
 ## 📞 联系方式
+<img src="https://img-hello-world.oss-cn-beijing.aliyuncs.com/imgs/c95cfc940e64c8f034898e884d64ec28.jpg" style="width:200px;height:200px"/>
 
-项目维护者 - [@yourusername](https://github.com/yourusername)
-[img/k4.png](https://img-hello-world.oss-cn-beijing.aliyuncs.com/imgs/c95cfc940e64c8f034898e884d64ec28.jpg)
+
 
 
